@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="observation" timestamp="2019-06-05T00:12:36" time="7.825" tests="0" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="4a483f34a84a92f0f56a6658f5bcb31f"/>
+      <property name="suiteName" value="Observation"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+  </testsuite>
+  <testsuite name="capture_observations" timestamp="2019-06-05T00:12:36" time="7.768" tests="6" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="4a483f34a84a92f0f56a6658f5bcb31f"/>
+      <property name="suiteName" value="Capture Observations"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+    <testcase classname="chrome.Capture Observations" name="I am on homepage with Global | English" time="7.838"/>
+    <testcase classname="chrome.Capture Observations" name="I perform search with test" time="3.595"/>
+    <testcase classname="chrome.Capture Observations" name="I see search results displayed" time="0.552"/>
+    <testcase classname="chrome.Capture Observations" name="I set results sort by Date" time="0.53"/>
+    <testcase classname="chrome.Capture Observations" name="I refined search industry Transportation" time="0.509"/>
+    <testcase classname="chrome.Capture Observations" name="I see all search results" time="0.369"/>
+  </testsuite>
+</testsuites>
