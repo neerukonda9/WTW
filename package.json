@@ -32,7 +32,7 @@
     "cucumber": "^0.10.4",
     "deepmerge": "^2.1.1",
     "interval-promise": "^1.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "moment": "^2.22.2",
     "wait-until": "0.0.2",
     "wdio-cucumber-framework": "0.1.0",
