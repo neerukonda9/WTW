@@ -33,7 +33,7 @@
     "deepmerge": "^2.1.1",
     "interval-promise": "^1.2.0",
     "lodash": "^4.17.11",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "wait-until": "0.0.2",
     "wdio-cucumber-framework": "0.1.0",
     "wdio-dot-reporter": "0.0.5",
